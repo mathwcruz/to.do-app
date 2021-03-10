@@ -33,3 +33,7 @@ input, textarea {
 button, .checkmark {
   cursor: pointer;
 }
+
+input:focus, button:focus, .checkmark:focus {
+  outline: 0;
+}
