@@ -37,13 +37,13 @@
 <br>
 
 ## 💻 Instalação da aplicação
-- `git clone https://github.com/mathwcruz/ignite-desafio_01-trilha-reactjs.git` para clonar o repositório
+- `git clone https://github.com/mathwcruz/ignite-desafio_01-trilha-reactjs-todo.git` para clonar o repositório
 
 <br>
 
 # Rodar aplicação
 Para rodar a aplicação na web, siga as instruções a partir do seu terminal:
-- `cd ignite-desafio_01-trilha-reactjs` e `code .`
+- `cd ignite-desafio_01-trilha-reactjs-todo` e `code .`
 - rode `yarn` para instalar as dependências do projeto
 - Após ter baixado as dependências, rode `yarn dev` para rodar a aplicação
 - Entra no `localhost:8080` para visualizar a aplicação web
