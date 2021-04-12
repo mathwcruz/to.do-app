@@ -26,7 +26,7 @@
 <br>
 
 <h3 align="center"> 
-	 Status da aplicação: Desenvolvido ✔️
+	 Application status: Developed ✔️
 </h3>
 <br>
 
