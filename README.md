@@ -8,6 +8,8 @@
 
 ## <p><h2 align="center">Aplicação To Do desenvolvida no primeiro desafio da Trilha ReactJS do Ignite ministrado pela [Rocketseat](https://app.rocketseat.com.br/dashboard)</h2> </p>
 
+## <p align="center"> <img src="https://github.com/mathwcruz/next-auth/blob/main/.github/Ignite.png" width="1400px"/> </p>
+
 <h3>Além do desafio proposto, alterei o tema da aplicação para dark, animações foram adicionadas e algumas pequenas mudanças no css</h3>
 
 <p align="center">
