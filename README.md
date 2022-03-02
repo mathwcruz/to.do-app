@@ -78,8 +78,6 @@ Desenvolvido por Matheus da Cruz 😊
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 <br>
 
-## **<p align="center">Muito obrigado ao pessoal da Rocketseat 🚀 pelo excelente conteúdo e didática, é nítido o impacto dessa empresa nos meus estudos 🙂</p>**
-
 ## **<p align="center">Iniciando a caminhada para poder participar da maratona nesse mundo da programação 🏃‍</p>**
 
 ### <p> <h2 align="center"> Mais uma aplicação realizada por Matheus da Cruz 👨‍💻 </h2> </p>
