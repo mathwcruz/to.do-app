@@ -4,13 +4,13 @@
 
 <br>
 
-## **<h2 align="center">Aplicação Front end📟 👨‍💻</h2>**
+## **<h2 align="center">Front end Application 📟 👨‍💻</h2>**
 
-## <p><h2 align="center">Aplicação To Do desenvolvida no primeiro desafio da Trilha ReactJS do Ignite ministrado pela [Rocketseat](https://app.rocketseat.com.br/dashboard)</h2> </p>
+## <p><h2 align="center">To Do application developed in the first challenge of the Ignite ReactJS Trail taught by [Rocketseat](https://app.rocketseat.com.br/dashboard)</h2> </p>
 
 ## <p align="center"> <img src="https://github.com/mathwcruz/next-auth/blob/main/.github/Ignite.png" width="1400px"/> </p>
 
-<h3>Além do desafio proposto, alterei o tema da aplicação para dark, animações foram adicionadas e algumas pequenas mudanças no css</h3>
+<h3>In addition to the proposed challenge, I changed the application theme to dark, animations were added and some small changes in CSS</h3>
 
 <p align="center">
   <a href="#computer-demonstration-of-the-application">Demonstration of the application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -33,9 +33,9 @@
 <br>
 
 ## :star: Features
-- [x] Adicionar uma nova tarefa
-- [x] Marcar uma tarefa como concluída ou o contrário
-- [x] Excluir uma tarefa
+- [x] Add a new task
+- [x] Mark a task as complete or the other way around
+- [x] Delete a task
 
 ## :rocket: Technologies used:
 
@@ -51,20 +51,20 @@
 <br>
 
 ## :information_source: Application installation
-- `git clone https://github.com/mathwcruz/ignite-desafio_01-trilha-reactjs-todo.git` para clonar o repositório
+- `git clone https://github.com/mathwcruz/ignite-desafio_01-trilha-reactjs-todo.git` to clone the repository
 
 <br>
 
 # 🎲 Run application
-Para rodar a aplicação na web, siga as instruções a partir do seu terminal:
-- `cd ignite-desafio_01-trilha-reactjs-todo` e `code .`
-- rode `yarn` para instalar as dependências do projeto
-- Após ter baixado as dependências, rode `yarn dev` para rodar a aplicação
-- Entra no `localhost:8080` para visualizar a aplicação web
+To run the application on the web, follow the instructions from your terminal:
+- `cd ignite-desafio_01-trilha-reactjs-todo` and `code .`
+- run `yarn` to install project dependencieso
+- After you have downloaded the dependencies, run `yarn dev` to run the application
+- Go to `localhost:8080` to see the app
 
 <br>
 
-### Autor
+### Author
 ---
 
 <a href="https://app.rocketseat.com.br/me/matheus-da-cruz-frontend">
@@ -72,12 +72,10 @@ Para rodar a aplicação na web, siga as instruções a partir do seu terminal:
  <br />
  <sub><b>Matheus da Cruz</b></sub></a> <a href="https://app.rocketseat.com.br/me/matheus-da-cruz-frontend" title="Rocketseat">  🚀</a>
 
-Desenvolvido por Matheus da Cruz 😊
-
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 <br>
 
-## **<p align="center">Iniciando a caminhada para poder participar da maratona nesse mundo da programação 🏃‍</p>**
+## **<p align="center">Starting the walk to be able to participate in the marathon in this programming world 🏃‍</p>**
 
-### <p> <h2 align="center"> Mais uma aplicação realizada por Matheus da Cruz 👨‍💻 </h2> </p>
+### <p> <h2 align="center">Another application made by Matheus da Cruz 👨‍💻 </h2> </p>
