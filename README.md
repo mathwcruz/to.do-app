@@ -4,11 +4,11 @@
 
 <br>
 
-## **<h2 align="center">Front end Application 📟 👨‍💻</h2>**
+<h2 align="center">Front end Application 📟 👨‍💻</h2>
 
-## <p><h2 align="center">To Do application</h2> </p>
+<p><h2 align="center">To Do application</h2> </p>
 
-## <p align="center"> <img src="https://github.com/mathwcruz/next-auth/blob/main/.github/Ignite.png" width="1400px"/> </p>
+<p align="center"> <img src="https://github.com/mathwcruz/next-auth/blob/main/.github/Ignite.png" width="1400px"/> </p>
 
 <h3 align="center">In addition to the proposed challenge, I changed the application theme to dark, animations were added and some small changes in CSS</h3>
 
@@ -76,4 +76,4 @@ To run the application on the web, follow the instructions from your terminal:
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 <br>
 
-### <p> <h2 align="center">Another application made by Matheus da Cruz 👨‍💻 </h2> </p>
+<h2 align="center">Another application developed by Matheus da Cruz 👨‍💻 </h2>
