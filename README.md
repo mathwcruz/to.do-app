@@ -6,7 +6,7 @@
 
 <h2 align="center">Front end Application 📟 👨‍💻</h2>
 
-<p><h2 align="center">To Do application</h2> </p>
+<h3 align="center">To Do application</h3>
 
 <p align="center"> <img src="https://github.com/mathwcruz/next-auth/blob/main/.github/Ignite.png" width="1400px"/> </p>
 
