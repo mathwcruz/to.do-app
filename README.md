@@ -2,8 +2,6 @@
   <img src="./public/logo.svg" alt="Logo do to.do" width="150">
 </h1>
 
-<br>
-
 <h2 align="center">Front end Application 📟 👨‍💻</h2>
 
 <h3 align="center">To Do application</h3>
@@ -25,12 +23,9 @@
   <img src="./.github/demonstration.gif" width="1400px"/>
 </p>
 
-<br>
-
 <h3 align="center"> 
 	 Application status: Developed ✔️
 </h3>
-<br>
 
 ## :star: Features
 - [x] Add a new task
@@ -45,15 +40,10 @@
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/sass_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvc2Fzc19pY29uLnN2ZyIsImlhdCI6MTY0NjI0NjcwNywiZXhwIjoxOTYxNjA2NzA3fQ.zoXN2EJOGG3WUght1FFMYGtpO3_UoChdjWubyL7n7wQ" alt="sass" width="70" height="70"/>
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/react_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVhY3RfaWNvbi5zdmciLCJpYXQiOjE2NDYyNDY1NjEsImV4cCI6MTk2MTYwNjU2MX0.rEGrv6fy9osG8okJAocY2LAe92rygmldkoNGTPggmvA" alt="react" width="70" height="70"/>
 <img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/typescript_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdHlwZXNjcmlwdF9pY29uLnN2ZyIsImlhdCI6MTY0NjI0NjcyNiwiZXhwIjoxOTYxNjA2NzI2fQ.W404dqHwT_A4lfmg7st0cyj1aJxJH3PZtCnux_iVv_s" alt="typescript" width="70" height="70"/>
-
 </p>
-
-<br>
 
 ## :information_source: Application installation
 - `git clone https://github.com/mathwcruz/ignite-desafio_01-trilha-reactjs-todo.git` to clone the repository
-
-<br>
 
 # 🎲 Run application
 To run the application on the web, follow the instructions from your terminal:
@@ -62,11 +52,8 @@ To run the application on the web, follow the instructions from your terminal:
 - After you have downloaded the dependencies, run `yarn dev` to run the application
 - Go to `localhost:8080` to see the app
 
-<br>
-
 ### Author
 ---
-
 <a href="https://app.rocketseat.com.br/me/matheus-da-cruz-frontend">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68445791?v=4" width="100px;" alt=""/>
  <br />
@@ -74,6 +61,3 @@ To run the application on the web, follow the instructions from your terminal:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
-<br>
-
-<h2 align="center">Another application developed by Matheus da Cruz 👨‍💻 </h2>
